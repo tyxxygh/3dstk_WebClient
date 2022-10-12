@@ -1,0 +1,11 @@
+{
+  "name": "webclient",
+  "version": "1.0.0",
+  "description": "Web client sample for 3D Streaming Toolkit",
+  "main": "app.js",
+  "dependencies": {
+    "js-3dstk": "file:./js-3dstk"
+  },
+  "author": "",
+  "license": "MIT"
+}
